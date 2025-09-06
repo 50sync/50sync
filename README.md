@@ -12,7 +12,9 @@ Hey there! I'm Youssef, a passionate mobile developer from Egypt, With a diverse
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 <b>
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+<b>
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
+<b>
 <img src="https://raw.githubusercontent.com/felangel/bloc/master/assets/logos/bloc.png" height="20" alt="Bloc" />
 
 ## Project Contributions
