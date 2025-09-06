@@ -1,37 +1,40 @@
-### <div align="center">I'm Youssef Essam, a Mobile developer👨‍💻 working since 2023 🚀</div>  
-  
+# Welcome to Youssef Essam's GitHub Profile 👋
 
-- 🌱 I’m currently learning Kotiln  
-<br/>  
+![header](https://github.com/50sync.png)
 
+## About Me
+Hey there! I'm Youssef, a passionate software developer from Egypt, currently associated with Bytesway. With a diverse skill set spanning across languages like C++, Dart, Swift, and HTML, I enjoy exploring different technologies and platforms to enhance my coding capabilities.
 
-## My Skill Set  
+## GitHub Stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=50sync)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=50sync)
+[![trophy](https://github-profile-trophy.vercel.app/?username=50sync)](https://github.com/50sync)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=50sync)](https://git.io/streak-stats)
 
-<div align="center">  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
+## Skills
+- Flutter
+- Dart
+- Kotlin
+- HTML
+- Git
 
+## Projects
+### My Portfolio
+![project](https://via.placeholder.com/150)
+### 50sync
+![project](https://via.placeholder.com/150)
 
-<br/>  
+## Project Contributions
+I have actively contributed to open-source initiatives, highlighting my collaborative nature and dedication towards project development.
 
+## Get in Touch
+📫 Feel free to connect with me through GitHub or email at youssef.essam@example.com
 
-## Connect with me  
-<a href="https://linkedin.com/in/youssef-essam-flutter" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/50sync" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-  
+Let's code and create together! 🚀
 
-<br/>  
+## Badges
+[![Flutter_Dev](https://img.shields.io/badge/Flutter-Developer-blue)](https://github.com/50sync)
 
-  
+---
 
-<br/>  
-
-
-<br />
+*This README is a dynamic representation inspired by the user insights and requirements provided. *
