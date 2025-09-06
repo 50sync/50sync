@@ -1,6 +1,5 @@
 # Welcome to Youssef Essam's GitHub Profile 👋
 
-## About Me
 Hey there! I'm Youssef, a passionate mobile developer from Egypt, With a diverse skill set spanning across languages like Dart and Kotlin I enjoy exploring different technologies and platforms to enhance my coding capabilities.
 
 
@@ -26,6 +25,3 @@ I have actively contributed to open-source initiatives, highlighting my collabor
 📫 Feel free to connect with me through GitHub or email at youssefessam.work@gmail.com
 
 Let's code and create together! 🚀
-
-## Badges
-[![Flutter_Dev](https://img.shields.io/badge/Flutter-Developer-blue)](https://github.com/50sync)
