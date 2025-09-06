@@ -12,7 +12,7 @@ Hey there! I'm Youssef, a passionate mobile developer from Egypt, With a diverse
 <br>
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)](#)
 <br>
-<img src="https://downloads.marketplace.jetbrains.com/files/12129/832499/icon/default.png" height="40" alt="Bloc" />
+<img src="https://1gravity.github.io/Kotlin-Bloc/img/logo.png" height="40" alt="Bloc" />
 
 
 ## Project Contributions
