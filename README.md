@@ -1,21 +1,13 @@
+<h1 align="center">Hi 👋, I'm Youssef Essam</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
 
-## 🚀 About Me
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=50sync&show_icons=true&locale=en&layout=compact" alt="50sync" /></p>
 
-  
-🎓 I am Youssef Essam, a **Mobile Developer** (specializing in **Flutter Applications**)
-
-## 🛠️ Skills
-
-![Dart](https://img.shields.io/badge/Dart-Programming_language-blue?logo=dart) 
-
-![Flutter](https://img.shields.io/badge/Flutter-FrameWork-blue?logo=flutter&logoColor=white)
-
-![BLoC](https://img.shields.io/badge/BLoC-State_Management-blue) <img  src='https://th.bing.com/th/id/R.de1a35485bc18c163da8e88c44259cf6?rik=zzY0jrdkV7HpXA&pid=ImgRaw&r=0'  width="20"  height="20">
-
-![FireBase](https://img.shields.io/badge/FireBase-BackEnd-red?logo=firebase&logoColor=red) 
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=50sync&" alt="50sync" /></p>
