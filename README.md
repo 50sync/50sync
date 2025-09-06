@@ -2,8 +2,6 @@
   
 
 - 🌱 I’m currently learning Kotiln  
-  
-
 <br/>  
 
 
