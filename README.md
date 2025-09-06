@@ -14,9 +14,6 @@ Hey there! I'm Youssef, a passionate mobile developer from Egypt, With a diverse
 <br>
 <img src="https://raw.githubusercontent.com/felangel/bloc/master/assets/logos/bloc.png" height="20" alt="Bloc" />
 
-## GitHub Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=50sync)](https://github.com/50sync)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=50sync)](https://git.io/streak-stats)
 
 ## Project Contributions
 I have actively contributed to open-source initiatives, highlighting my collaborative nature and dedication towards project development.
@@ -25,3 +22,8 @@ I have actively contributed to open-source initiatives, highlighting my collabor
 📫 Feel free to connect with me through GitHub or email at youssefessam.work@gmail.com
 
 Let's code and create together! 🚀
+
+
+## GitHub Stats
+[![trophy](https://github-profile-trophy.vercel.app/?username=50sync)](https://github.com/50sync)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=50sync)](https://git.io/streak-stats)
