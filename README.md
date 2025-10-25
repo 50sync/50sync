@@ -23,6 +23,6 @@ I have actively contributed to open-source initiatives, highlighting my collabor
 Let's code and create together! 🚀
 
 
-## GitHub Stats
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=50sync)](https://github.com/50sync)
+<!-- ## GitHub Stats
+[![trophy](https://github-profile-trophy.vercel.app/?username=50sync)](https://github.com/50sync)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=50sync)](https://git.io/streak-stats) -->
