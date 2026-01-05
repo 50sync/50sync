@@ -6,6 +6,8 @@ Hey there! I’m Youssef, a passionate mobile developer from Egypt. With strong 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,react,vite,js,ts,redux,html,css,vscode,androidstudio,supabase,firebase,postman,github&perline=8)](https://skillicons.dev)
 <br>
 <img src="https://1gravity.github.io/Kotlin-Bloc/img/logo.png" height="40" alt="Bloc" />
+<img src="https://hexmos.com/freedevtools/svg_icons/zustand/zustand-original.svg" height="40" alt="Zustand" />
+
 
 
 ## Project Contributions
