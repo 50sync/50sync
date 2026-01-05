@@ -3,8 +3,9 @@
 Hey there! I’m Youssef, a passionate mobile developer from Egypt. With strong expertise in Flutter, along with solid experience in Dart and Kotlin, I enjoy exploring diverse technologies and platforms to expand my skills and build impactful applications.
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,react)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,react,vite,js,ts,redux,html,css,vscode,androidstudio,supabase,firebase,postman,github)](https://skillicons.dev)
+<br>
+<img src="https://1gravity.github.io/Kotlin-Bloc/img/logo.png" height="40" alt="Bloc" />
 
 
 ## Project Contributions
